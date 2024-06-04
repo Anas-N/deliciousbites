@@ -1,0 +1,20 @@
+*{
+    font-family: Roboto;
+}
+.sizer{
+    height: 500px;
+}
+a{
+    text-decoration: none;
+}
+.lengther{
+    font-size: 60px;
+    font-weight: 700;
+    
+}
+.klk{
+color: orangered;
+font-size: 40px;
+font-weight: 700;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
